@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView List</string>
+    <array name="names">
+        <item>Steve Rogers</item>
+        <item>Tony Stark</item>
+        <item>Bruce Banner</item>
+        <item>Peter Parker</item>
+        <item>Reed Richards</item>
+        <item>Sue Storm</item>
+        <item>Ben Grim</item>
+        <item>Bruce Wayne</item>
+        <item>Clark Kent</item>
+        <item>Hal Jordan</item>
+        <item>Barry Allen</item>
+    </array>
+</resources>
